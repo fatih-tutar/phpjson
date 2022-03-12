@@ -2,10 +2,15 @@
     "name": "fatih",
     "surname": "tutar",
     "age": 28,
-    "languagesArray" : ["html","css","js","mysql","php"],
-    "familyObject" : [{
+    "languagesArray" : [
+        "html",
+        "css",
+        "js",
+        "mysql",
+        "php"],
+    "familyObject" : {
         "father" : "davut",
         "mother" : "ayse",
         "sister" : "zehra"
-    }]
+    }
 }
